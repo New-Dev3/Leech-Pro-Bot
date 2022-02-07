@@ -6,7 +6,7 @@
 
 ## **Don't Kill Heroku please ☹️**
 
-[![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/MaxxBots)
+[![Team WarZ](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/TeamWarZ)
 
 
 
@@ -45,6 +45,11 @@
 
 
 [![Maxx](https://telegra.ph/file/7e3a50f29f871defe0bcb.png)](https://t.me/MaxxBots)
+
+<h3> Dєρℓογ το нєяοκυ </h3>
+
+<a href="https://dashboard.heroku.com/new?button-url=heroku.com/deploy?template=https://github.com/New-Dev3/Leech-Pro-Bot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+</a>
 
 ##### Optional Configuration Variables
 
@@ -150,9 +155,9 @@
 ➢ `/status`
 
 
-[![Maxx](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/MaxxBotChat)
+[![WarZ Support](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/WarZSupport)
 
-🔴 <b> Currently Support HEORKO . But not permanent ☹️🤧 Coz Heroku won't allow Torrent Things</b>.
+🔴 <b> Currently Support Heroku. But not permanent ☹️🤧 Coz Heroku won't allow Torrent Things</b>.
 
 ## ARE YOU NEW ??? Then READ Full 👉 [Instructions](https://GitHub.com/MaxxRider/About-Leech)
 
@@ -160,14 +165,15 @@
 🤧 <b> Before Deploy 𝗣𝗹𝗲𝗮𝘀𝗲 𝗛𝗶𝘁 𝗦𝘁𝗮𝗿 ★ else you are Gay</b>
 
 
-<p><a href="https://github.com/MaxxRider/Leech-Pro/wiki/Deploy-To-Heroku"> <img src=https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="200"</a></p>
+<p><a href="https://github.com/New-Dev3/Leech-Pro-Bot/wiki/Deploy-To-Heroku"> <img src=https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="200"</a></p>
 
 
-[![MaxxRider](https://telegra.ph/file/aac59f2f35ee73b63019e.png)](https://telegram.dog/MaxxRiderz)
+[![WarZ](https://telegra.ph/file/aac59f2f35ee73b63019e.png)](https://telegram.dog/TheWarZBOT)
 
     
 ## CREDITS
 
+ - [The WarZ](https://github.com/New-Dev3) 😊
  - [GautamKumar](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
  - [SpEcHiDe](https://github.com/SpEcHiDe/PublicLeech) for his wonderful code😚
  - [Rclone Team](https://rclone.org) for theirs awesome tool☁️
