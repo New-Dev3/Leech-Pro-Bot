@@ -5,9 +5,9 @@
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/MaxxRider/Leech-Pro",
-  "success_url": "https://t.me/MaxxBotChat",
-  "website": "https://github.com/MaxxRider/Leech-Pro",
+  "repository": "https://github.com/New-Dev3/Leech-Pro-Bot",
+  "success_url": "https://t.me/MXBotZ_INFINITY",
+  "website": "https://github.com/New-Dev3/Leech-Pro-Bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
